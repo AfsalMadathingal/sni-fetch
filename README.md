@@ -1,5 +1,8 @@
 # sni-fetch
 
+[![GitHub](https://img.shields.io/badge/GitHub-AfsalMadathingal%2Fsni--fetch-181717?style=flat&logo=github)](https://github.com/AfsalMadathingal/sni-fetch)
+[![npm](https://img.shields.io/npm/v/sni-fetch?style=flat&logo=npm&color=CB3837)](https://www.npmjs.com/package/sni-fetch)
+
 SNI bug-host tunneler for restricted container environments.
 
 When your container blocks all internet access but allows traffic to specific domains (like `github.com` or `npmjs.com`), `sni-fetch` exploits the SNI (Server Name Indication) field in TLS to route requests to any HTTPS destination through those allowed hosts.
