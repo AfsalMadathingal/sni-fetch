@@ -1,7 +1,16 @@
+<div align="center">
+
 # sni-fetch
 
-[![GitHub](https://img.shields.io/badge/GitHub-AfsalMadathingal%2Fsni--fetch-181717?style=flat&logo=github)](https://github.com/AfsalMadathingal/sni-fetch)
-[![npm](https://img.shields.io/npm/v/sni-fetch?style=flat&logo=npm&color=CB3837)](https://www.npmjs.com/package/sni-fetch)
+**SNI bug-host tunneler for restricted container environments**
+
+[![npm version](https://img.shields.io/npm/v/sni-fetch?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/sni-fetch)
+[![npm downloads](https://img.shields.io/npm/dm/sni-fetch?style=flat-square&logo=npm&color=CB3837&label=downloads%2Fmonth)](https://www.npmjs.com/package/sni-fetch)
+[![npm total downloads](https://img.shields.io/npm/dt/sni-fetch?style=flat-square&logo=npm&color=CB3837&label=total%20downloads)](https://www.npmjs.com/package/sni-fetch)
+[![GitHub](https://img.shields.io/badge/GitHub-source-181717?style=flat-square&logo=github)](https://github.com/AfsalMadathingal/sni-fetch)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+
+</div>
 
 SNI bug-host tunneler for restricted container environments.
 
